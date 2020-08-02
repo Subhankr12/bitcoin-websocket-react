@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bitcoin-websocket-react/static/css/main.050523cc.chunk.css",
+    "main.js": "/bitcoin-websocket-react/static/js/main.b1965a53.chunk.js",
+    "main.js.map": "/bitcoin-websocket-react/static/js/main.b1965a53.chunk.js.map",
+    "runtime-main.js": "/bitcoin-websocket-react/static/js/runtime-main.e23437f4.js",
+    "runtime-main.js.map": "/bitcoin-websocket-react/static/js/runtime-main.e23437f4.js.map",
+    "static/js/2.1b0a955f.chunk.js": "/bitcoin-websocket-react/static/js/2.1b0a955f.chunk.js",
+    "static/js/2.1b0a955f.chunk.js.map": "/bitcoin-websocket-react/static/js/2.1b0a955f.chunk.js.map",
+    "index.html": "/bitcoin-websocket-react/index.html",
+    "precache-manifest.db8eeaca23c17924c6b476c0e44351e4.js": "/bitcoin-websocket-react/precache-manifest.db8eeaca23c17924c6b476c0e44351e4.js",
+    "service-worker.js": "/bitcoin-websocket-react/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/bitcoin-websocket-react/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.1b0a955f.chunk.js.LICENSE.txt": "/bitcoin-websocket-react/static/js/2.1b0a955f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bitcoin-websocket-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e23437f4.js",
+    "static/js/2.1b0a955f.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.b1965a53.chunk.js"
+  ]
+}
